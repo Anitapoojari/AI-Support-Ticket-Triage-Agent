@@ -1,0 +1,14 @@
+Subject,Description
+Login Issue,I cannot log in to my account after changing my password.
+Payment Failed,Money was deducted but my order was not confirmed.
+Password Reset,I forgot my password and need help resetting it.
+App Crash,The application crashes every time I open it.
+Refund Request,I would like a refund for my recent purchase.
+Feature Request,Please add dark mode to the application.
+Account Locked,My account has been locked after multiple login attempts.
+Slow Performance,The dashboard takes too long to load.
+Email Not Received,I did not receive the verification email.
+Bug Report,The submit button does not work on the checkout page.
+Login Issue,I am unable to login even with correct password.
+Subscription Cancel,I want to cancel my monthly subscription and get refund.
+API Error,Getting 500 Internal Server Error on payment API.
